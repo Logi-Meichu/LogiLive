@@ -1,0 +1,10 @@
+2019-10-27 05:15:01,043 meichu [DEBUG] payload_size: 4
+2019-10-27 05:15:01,043 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 05:15:01,043 meichu [DEBUG] Input data: 1
+2019-10-27 05:15:01,044 meichu [DEBUG] Current send 1: 57
+2019-10-27 05:15:01,044 meichu [DEBUG] Recv: 0
+2019-10-27 05:15:05,422 meichu [DEBUG] payload_size: 4
+2019-10-27 05:15:05,422 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 05:15:05,423 meichu [DEBUG] Input data: 1
+2019-10-27 05:15:05,423 meichu [DEBUG] Current send 1: 56
+2019-10-27 05:15:05,424 meichu [DEBUG] Recv: 0

@@ -1,0 +1,442 @@
+2019-10-27 07:40:52,210 meichu [DEBUG] payload_size: 4
+2019-10-27 07:40:52,224 meichu [DEBUG] connect to 172.20.10.7:9302
+2019-10-27 07:40:52,225 meichu [DEBUG] Recv: 0
+2019-10-27 07:40:52,721 meichu [DEBUG] Received response! size = 969055
+2019-10-27 07:40:52,788 meichu [DEBUG] Recv: 0
+2019-10-27 07:40:54,832 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:40:54,844 meichu [DEBUG] msg_size: 974320
+2019-10-27 07:40:54,846 meichu [DEBUG] payload_size: 4
+2019-10-27 07:40:54,847 meichu [DEBUG] connect to 172.20.10.7:9300
+2019-10-27 07:40:54,848 meichu [DEBUG] Recv: 0
+2019-10-27 07:40:55,028 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:40:55,082 meichu [DEBUG] msg_size: 1135945
+2019-10-27 07:40:56,170 meichu [DEBUG] Received response! size = 974320
+2019-10-27 07:40:56,257 meichu [DEBUG] Recv: 0
+2019-10-27 07:40:56,464 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:40:56,508 meichu [DEBUG] msg_size: 981965
+2019-10-27 07:40:56,949 meichu [DEBUG] Received response! size = 1135945
+2019-10-27 07:40:57,011 meichu [DEBUG] Done Recv: 2739
+2019-10-27 07:40:57,060 meichu [DEBUG] msg_size: 945210
+2019-10-27 07:40:57,579 meichu [DEBUG] Received response! size = 945210
+2019-10-27 07:40:57,583 meichu [DEBUG] Done Recv: 3701
+2019-10-27 07:40:57,583 meichu [DEBUG] msg_size: 945555
+2019-10-27 07:40:57,625 meichu [DEBUG] Received response! size = 981965
+2019-10-27 07:40:57,647 meichu [DEBUG] Recv: 0
+2019-10-27 07:40:57,762 meichu [DEBUG] Received response! size = 945555
+2019-10-27 07:40:57,774 meichu [DEBUG] Done Recv: 222
+2019-10-27 07:40:57,821 meichu [DEBUG] msg_size: 942155
+2019-10-27 07:40:58,486 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:40:58,566 meichu [DEBUG] msg_size: 980465
+2019-10-27 07:40:58,648 meichu [DEBUG] Received response! size = 942155
+2019-10-27 07:40:58,763 meichu [DEBUG] Done Recv: 143
+2019-10-27 07:40:58,787 meichu [DEBUG] msg_size: 941800
+2019-10-27 07:40:59,440 meichu [DEBUG] Received response! size = 941800
+2019-10-27 07:40:59,446 meichu [DEBUG] Done Recv: 419
+2019-10-27 07:40:59,446 meichu [DEBUG] msg_size: 942495
+2019-10-27 07:40:59,500 meichu [DEBUG] Received response! size = 980465
+2019-10-27 07:40:59,544 meichu [DEBUG] Recv: 0
+2019-10-27 07:40:59,853 meichu [DEBUG] Received response! size = 942495
+2019-10-27 07:40:59,884 meichu [DEBUG] Recv: 0
+2019-10-27 07:40:59,913 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:40:59,914 meichu [DEBUG] msg_size: 941965
+2019-10-27 07:41:00,261 meichu [DEBUG] Received response! size = 941965
+2019-10-27 07:41:00,267 meichu [DEBUG] Done Recv: 111
+2019-10-27 07:41:00,295 meichu [DEBUG] msg_size: 942230
+2019-10-27 07:41:00,583 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:00,633 meichu [DEBUG] msg_size: 980745
+2019-10-27 07:41:01,107 meichu [DEBUG] Received response! size = 980745
+2019-10-27 07:41:01,108 meichu [DEBUG] Received response! size = 942230
+2019-10-27 07:41:01,114 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:01,148 meichu [DEBUG] Done Recv: 4053
+2019-10-27 07:41:01,179 meichu [DEBUG] msg_size: 942345
+2019-10-27 07:41:01,422 meichu [DEBUG] Received response! size = 942345
+2019-10-27 07:41:01,432 meichu [DEBUG] Done Recv: 3784
+2019-10-27 07:41:01,435 meichu [DEBUG] msg_size: 942305
+2019-10-27 07:41:02,363 meichu [DEBUG] Received response! size = 942305
+2019-10-27 07:41:02,479 meichu [DEBUG] Done Recv: 3555
+2019-10-27 07:41:02,582 meichu [DEBUG] msg_size: 941895
+2019-10-27 07:41:03,235 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:03,241 meichu [DEBUG] msg_size: 971830
+2019-10-27 07:41:03,615 meichu [DEBUG] Received response! size = 941895
+2019-10-27 07:41:03,650 meichu [DEBUG] Done Recv: 3736
+2019-10-27 07:41:03,664 meichu [DEBUG] Received response! size = 971830
+2019-10-27 07:41:03,664 meichu [DEBUG] msg_size: 942440
+2019-10-27 07:41:03,668 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:04,729 meichu [DEBUG] Received response! size = 942440
+2019-10-27 07:41:04,745 meichu [DEBUG] Done Recv: 3372
+2019-10-27 07:41:04,759 meichu [DEBUG] msg_size: 941305
+2019-10-27 07:41:04,828 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:04,847 meichu [DEBUG] msg_size: 971455
+2019-10-27 07:41:06,066 meichu [DEBUG] Received response! size = 941305
+2019-10-27 07:41:06,147 meichu [DEBUG] Done Recv: 47
+2019-10-27 07:41:06,191 meichu [DEBUG] msg_size: 942235
+2019-10-27 07:41:06,194 meichu [DEBUG] Received response! size = 971455
+2019-10-27 07:41:06,267 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:06,390 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:06,397 meichu [DEBUG] msg_size: 973055
+2019-10-27 07:41:07,012 meichu [DEBUG] Received response! size = 942235
+2019-10-27 07:41:07,117 meichu [DEBUG] Done Recv: 3984
+2019-10-27 07:41:07,230 meichu [DEBUG] msg_size: 941920
+2019-10-27 07:41:07,244 meichu [DEBUG] Received response! size = 973055
+2019-10-27 07:41:07,257 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:07,932 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:07,991 meichu [DEBUG] msg_size: 972745
+2019-10-27 07:41:08,144 meichu [DEBUG] Received response! size = 941920
+2019-10-27 07:41:08,233 meichu [DEBUG] Done Recv: 44
+2019-10-27 07:41:08,233 meichu [DEBUG] msg_size: 941165
+2019-10-27 07:41:08,644 meichu [DEBUG] Received response! size = 941165
+2019-10-27 07:41:08,658 meichu [DEBUG] Done Recv: 955
+2019-10-27 07:41:08,710 meichu [DEBUG] Received response! size = 972745
+2019-10-27 07:41:08,711 meichu [DEBUG] msg_size: 941210
+2019-10-27 07:41:08,863 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:09,218 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:09,270 meichu [DEBUG] msg_size: 973890
+2019-10-27 07:41:09,327 meichu [DEBUG] Received response! size = 941210
+2019-10-27 07:41:09,335 meichu [DEBUG] Received response! size = 973890
+2019-10-27 07:41:09,339 meichu [DEBUG] Done Recv: 1821
+2019-10-27 07:41:09,349 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:09,373 meichu [DEBUG] msg_size: 941925
+2019-10-27 07:41:10,112 meichu [DEBUG] Received response! size = 941925
+2019-10-27 07:41:10,127 meichu [DEBUG] Done Recv: 1972
+2019-10-27 07:41:10,172 meichu [DEBUG] msg_size: 941835
+2019-10-27 07:41:10,592 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:10,675 meichu [DEBUG] msg_size: 971810
+2019-10-27 07:41:11,585 meichu [DEBUG] Received response! size = 941835
+2019-10-27 07:41:11,615 meichu [DEBUG] Done Recv: 2213
+2019-10-27 07:41:11,652 meichu [DEBUG] msg_size: 941690
+2019-10-27 07:41:11,730 meichu [DEBUG] Received response! size = 971810
+2019-10-27 07:41:11,770 meichu [DEBUG] Done Recv: 3034
+2019-10-27 07:41:11,815 meichu [DEBUG] msg_size: 972010
+2019-10-27 07:41:12,337 meichu [DEBUG] Received response! size = 941690
+2019-10-27 07:41:12,466 meichu [DEBUG] Done Recv: 2599
+2019-10-27 07:41:12,551 meichu [DEBUG] Received response! size = 972010
+2019-10-27 07:41:12,587 meichu [DEBUG] msg_size: 941330
+2019-10-27 07:41:12,620 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:12,835 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:12,837 meichu [DEBUG] msg_size: 968695
+2019-10-27 07:41:13,501 meichu [DEBUG] Received response! size = 941330
+2019-10-27 07:41:13,565 meichu [DEBUG] Done Recv: 3345
+2019-10-27 07:41:13,628 meichu [DEBUG] msg_size: 942010
+2019-10-27 07:41:13,683 meichu [DEBUG] Received response! size = 968695
+2019-10-27 07:41:13,704 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:13,865 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:13,978 meichu [DEBUG] msg_size: 969705
+2019-10-27 07:41:14,742 meichu [DEBUG] Received response! size = 942010
+2019-10-27 07:41:14,746 meichu [DEBUG] Done Recv: 3411
+2019-10-27 07:41:14,780 meichu [DEBUG] Received response! size = 969705
+2019-10-27 07:41:14,878 meichu [DEBUG] msg_size: 941645
+2019-10-27 07:41:14,900 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:15,179 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:15,212 meichu [DEBUG] msg_size: 970365
+2019-10-27 07:41:15,858 meichu [DEBUG] Received response! size = 941645
+2019-10-27 07:41:15,880 meichu [DEBUG] Done Recv: 3842
+2019-10-27 07:41:15,921 meichu [DEBUG] msg_size: 941445
+2019-10-27 07:41:16,018 meichu [DEBUG] Received response! size = 970365
+2019-10-27 07:41:16,024 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:16,199 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:16,224 meichu [DEBUG] msg_size: 971810
+2019-10-27 07:41:16,690 meichu [DEBUG] Received response! size = 941445
+2019-10-27 07:41:16,765 meichu [DEBUG] Done Recv: 377
+2019-10-27 07:41:16,836 meichu [DEBUG] msg_size: 941400
+2019-10-27 07:41:17,257 meichu [DEBUG] Received response! size = 971810
+2019-10-27 07:41:17,279 meichu [DEBUG] Done Recv: 3034
+2019-10-27 07:41:17,291 meichu [DEBUG] Received response! size = 941400
+2019-10-27 07:41:17,291 meichu [DEBUG] msg_size: 970290
+2019-10-27 07:41:17,296 meichu [DEBUG] Done Recv: 1053
+2019-10-27 07:41:17,343 meichu [DEBUG] msg_size: 941480
+2019-10-27 07:41:18,758 meichu [DEBUG] Received response! size = 941480
+2019-10-27 07:41:18,810 meichu [DEBUG] Done Recv: 1649
+2019-10-27 07:41:18,818 meichu [DEBUG] Received response! size = 970290
+2019-10-27 07:41:18,915 meichu [DEBUG] msg_size: 941845
+2019-10-27 07:41:18,918 meichu [DEBUG] Done Recv: 3492
+2019-10-27 07:41:18,945 meichu [DEBUG] msg_size: 969915
+2019-10-27 07:41:20,046 meichu [DEBUG] Received response! size = 941845
+2019-10-27 07:41:20,095 meichu [DEBUG] Done Recv: 1880
+2019-10-27 07:41:20,113 meichu [DEBUG] Received response! size = 969915
+2019-10-27 07:41:20,161 meichu [DEBUG] msg_size: 942405
+2019-10-27 07:41:20,175 meichu [DEBUG] Done Recv: 229
+2019-10-27 07:41:20,243 meichu [DEBUG] msg_size: 971415
+2019-10-27 07:41:21,085 meichu [DEBUG] Received response! size = 942405
+2019-10-27 07:41:21,120 meichu [DEBUG] Received response! size = 971415
+2019-10-27 07:41:21,265 meichu [DEBUG] Done Recv: 1551
+2019-10-27 07:41:21,361 meichu [DEBUG] Done Recv: 3658
+2019-10-27 07:41:21,412 meichu [DEBUG] msg_size: 970940
+2019-10-27 07:41:21,411 meichu [DEBUG] msg_size: 941690
+2019-10-27 07:41:22,060 meichu [DEBUG] Received response! size = 941690
+2019-10-27 07:41:22,147 meichu [DEBUG] Done Recv: 1937
+2019-10-27 07:41:22,273 meichu [DEBUG] msg_size: 941950
+2019-10-27 07:41:22,465 meichu [DEBUG] Received response! size = 970940
+2019-10-27 07:41:22,580 meichu [DEBUG] Done Recv: 3466
+2019-10-27 07:41:22,587 meichu [DEBUG] msg_size: 973665
+2019-10-27 07:41:23,156 meichu [DEBUG] Received response! size = 973665
+2019-10-27 07:41:23,161 meichu [DEBUG] Done Recv: 549
+2019-10-27 07:41:23,161 meichu [DEBUG] msg_size: 972340
+2019-10-27 07:41:23,228 meichu [DEBUG] Received response! size = 941950
+2019-10-27 07:41:23,246 meichu [DEBUG] Done Recv: 2063
+2019-10-27 07:41:23,246 meichu [DEBUG] msg_size: 941595
+2019-10-27 07:41:23,497 meichu [DEBUG] Received response! size = 941595
+2019-10-27 07:41:23,515 meichu [DEBUG] Done Recv: 2544
+2019-10-27 07:41:23,522 meichu [DEBUG] Received response! size = 972340
+2019-10-27 07:41:23,555 meichu [DEBUG] msg_size: 941225
+2019-10-27 07:41:23,618 meichu [DEBUG] Done Recv: 3053
+2019-10-27 07:41:23,656 meichu [DEBUG] msg_size: 969400
+2019-10-27 07:41:24,034 meichu [DEBUG] Received response! size = 941225
+2019-10-27 07:41:24,037 meichu [DEBUG] Done Recv: 3395
+2019-10-27 07:41:24,037 meichu [DEBUG] msg_size: 941445
+2019-10-27 07:41:24,116 meichu [DEBUG] Received response! size = 969400
+2019-10-27 07:41:24,120 meichu [DEBUG] Done Recv: 305
+2019-10-27 07:41:24,152 meichu [DEBUG] msg_size: 970110
+2019-10-27 07:41:24,231 meichu [DEBUG] Received response! size = 941445
+2019-10-27 07:41:24,314 meichu [DEBUG] Done Recv: 4026
+2019-10-27 07:41:24,328 meichu [DEBUG] msg_size: 941810
+2019-10-27 07:41:24,533 meichu [DEBUG] Received response! size = 941810
+2019-10-27 07:41:24,537 meichu [DEBUG] Done Recv: 196
+2019-10-27 07:41:24,538 meichu [DEBUG] msg_size: 941950
+2019-10-27 07:41:24,613 meichu [DEBUG] Received response! size = 970110
+2019-10-27 07:41:24,676 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:24,775 meichu [DEBUG] Received response! size = 941950
+2019-10-27 07:41:24,831 meichu [DEBUG] Done Recv: 322
+2019-10-27 07:41:24,878 meichu [DEBUG] msg_size: 942745
+2019-10-27 07:41:25,245 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:25,311 meichu [DEBUG] msg_size: 972275
+2019-10-27 07:41:25,778 meichu [DEBUG] Received response! size = 942745
+2019-10-27 07:41:25,808 meichu [DEBUG] Done Recv: 3749
+2019-10-27 07:41:25,812 meichu [DEBUG] msg_size: 941790
+2019-10-27 07:41:25,818 meichu [DEBUG] Received response! size = 972275
+2019-10-27 07:41:25,823 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:26,618 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:26,641 meichu [DEBUG] msg_size: 972160
+2019-10-27 07:41:26,668 meichu [DEBUG] Received response! size = 941790
+2019-10-27 07:41:26,755 meichu [DEBUG] Done Recv: 4035
+2019-10-27 07:41:26,833 meichu [DEBUG] msg_size: 942295
+2019-10-27 07:41:27,136 meichu [DEBUG] Received response! size = 942295
+2019-10-27 07:41:27,159 meichu [DEBUG] Done Recv: 3816
+2019-10-27 07:41:27,159 meichu [DEBUG] msg_size: 942425
+2019-10-27 07:41:27,321 meichu [DEBUG] Received response! size = 972160
+2019-10-27 07:41:27,383 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:27,474 meichu [DEBUG] Received response! size = 942425
+2019-10-27 07:41:27,500 meichu [DEBUG] Done Recv: 3467
+2019-10-27 07:41:27,500 meichu [DEBUG] msg_size: 941470
+2019-10-27 07:41:27,840 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:27,865 meichu [DEBUG] msg_size: 969505
+2019-10-27 07:41:28,473 meichu [DEBUG] Received response! size = 969505
+2019-10-27 07:41:28,513 meichu [DEBUG] Done Recv: 1243
+2019-10-27 07:41:28,526 meichu [DEBUG] Received response! size = 941470
+2019-10-27 07:41:28,611 meichu [DEBUG] msg_size: 971285
+2019-10-27 07:41:28,619 meichu [DEBUG] Done Recv: 4073
+2019-10-27 07:41:28,809 meichu [DEBUG] msg_size: 942080
+2019-10-27 07:41:29,759 meichu [DEBUG] Received response! size = 942080
+2019-10-27 07:41:29,845 meichu [DEBUG] Done Recv: 4069
+2019-10-27 07:41:29,975 meichu [DEBUG] msg_size: 941980
+2019-10-27 07:41:30,055 meichu [DEBUG] Received response! size = 971285
+2019-10-27 07:41:30,106 meichu [DEBUG] Done Recv: 706
+2019-10-27 07:41:30,126 meichu [DEBUG] msg_size: 971485
+2019-10-27 07:41:31,296 meichu [DEBUG] Received response! size = 971485
+2019-10-27 07:41:31,308 meichu [DEBUG] Received response! size = 941980
+2019-10-27 07:41:31,525 meichu [DEBUG] Done Recv: 4065
+2019-10-27 07:41:31,581 meichu [DEBUG] Done Recv: 69
+2019-10-27 07:41:31,742 meichu [DEBUG] msg_size: 996180
+2019-10-27 07:41:31,874 meichu [DEBUG] msg_size: 941525
+2019-10-27 07:41:33,698 meichu [DEBUG] Received response! size = 941525
+2019-10-27 07:41:33,744 meichu [DEBUG] Done Recv: 620
+2019-10-27 07:41:33,831 meichu [DEBUG] msg_size: 954915
+2019-10-27 07:41:33,884 meichu [DEBUG] Received response! size = 996180
+2019-10-27 07:41:34,066 meichu [DEBUG] Done Recv: 3209
+2019-10-27 07:41:34,183 meichu [DEBUG] msg_size: 971980
+2019-10-27 07:41:34,732 meichu [DEBUG] Received response! size = 971980
+2019-10-27 07:41:34,744 meichu [DEBUG] Received response! size = 954915
+2019-10-27 07:41:34,788 meichu [DEBUG] Done Recv: 1977
+2019-10-27 07:41:34,801 meichu [DEBUG] Done Recv: 69
+2019-10-27 07:41:34,898 meichu [DEBUG] msg_size: 941825
+2019-10-27 07:41:34,896 meichu [DEBUG] msg_size: 972205
+2019-10-27 07:41:35,426 meichu [DEBUG] Received response! size = 941825
+2019-10-27 07:41:35,427 meichu [DEBUG] Received response! size = 972205
+2019-10-27 07:41:35,640 meichu [DEBUG] Done Recv: 320
+2019-10-27 07:41:35,746 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:35,872 meichu [DEBUG] msg_size: 939465
+2019-10-27 07:41:35,965 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:35,966 meichu [DEBUG] msg_size: 972205
+2019-10-27 07:41:36,230 meichu [DEBUG] Received response! size = 939465
+2019-10-27 07:41:36,242 meichu [DEBUG] Done Recv: 2931
+2019-10-27 07:41:36,243 meichu [DEBUG] Received response! size = 972205
+2019-10-27 07:41:36,332 meichu [DEBUG] msg_size: 939630
+2019-10-27 07:41:36,347 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:36,826 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:36,826 meichu [DEBUG] msg_size: 972980
+2019-10-27 07:41:36,969 meichu [DEBUG] Received response! size = 939630
+2019-10-27 07:41:37,061 meichu [DEBUG] Done Recv: 1281
+2019-10-27 07:41:37,074 meichu [DEBUG] msg_size: 939840
+2019-10-27 07:41:37,939 meichu [DEBUG] Received response! size = 939840
+2019-10-27 07:41:38,029 meichu [DEBUG] Done Recv: 3517
+2019-10-27 07:41:38,055 meichu [DEBUG] msg_size: 940635
+2019-10-27 07:41:38,122 meichu [DEBUG] Received response! size = 972980
+2019-10-27 07:41:38,122 meichu [DEBUG] payload_size: 4
+2019-10-27 07:41:38,128 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:38,129 meichu [DEBUG] connect to 172.20.10.7:9300
+2019-10-27 07:41:38,132 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:38,394 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:38,477 meichu [DEBUG] msg_size: 971670
+2019-10-27 07:41:39,191 meichu [DEBUG] Received response! size = 940635
+2019-10-27 07:41:39,269 meichu [DEBUG] Done Recv: 862
+2019-10-27 07:41:39,342 meichu [DEBUG] msg_size: 940555
+2019-10-27 07:41:39,412 meichu [DEBUG] Received response! size = 971670
+2019-10-27 07:41:39,553 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:39,786 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:39,899 meichu [DEBUG] msg_size: 994780
+2019-10-27 07:41:40,497 meichu [DEBUG] Received response! size = 940555
+2019-10-27 07:41:40,625 meichu [DEBUG] Done Recv: 2383
+2019-10-27 07:41:40,653 meichu [DEBUG] Received response! size = 994780
+2019-10-27 07:41:40,727 meichu [DEBUG] msg_size: 941130
+2019-10-27 07:41:40,731 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:41,186 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:41,209 meichu [DEBUG] msg_size: 971265
+2019-10-27 07:41:42,519 meichu [DEBUG] Received response! size = 941130
+2019-10-27 07:41:42,579 meichu [DEBUG] Received response! size = 971265
+2019-10-27 07:41:42,583 meichu [DEBUG] Done Recv: 3329
+2019-10-27 07:41:42,644 meichu [DEBUG] Done Recv: 3579
+2019-10-27 07:41:42,646 meichu [DEBUG] msg_size: 940475
+2019-10-27 07:41:42,728 meichu [DEBUG] msg_size: 960780
+2019-10-27 07:41:43,644 meichu [DEBUG] Received response! size = 940475
+2019-10-27 07:41:43,705 meichu [DEBUG] Done Recv: 834
+2019-10-27 07:41:43,722 meichu [DEBUG] msg_size: 940320
+2019-10-27 07:41:43,722 meichu [DEBUG] Received response! size = 960780
+2019-10-27 07:41:43,761 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:44,095 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:44,120 meichu [DEBUG] msg_size: 972675
+2019-10-27 07:41:45,082 meichu [DEBUG] Received response! size = 940320
+2019-10-27 07:41:45,089 meichu [DEBUG] Done Recv: 2590
+2019-10-27 07:41:45,090 meichu [DEBUG] msg_size: 940785
+2019-10-27 07:41:45,184 meichu [DEBUG] Received response! size = 972675
+2019-10-27 07:41:45,198 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:45,516 meichu [DEBUG] Received response! size = 940785
+2019-10-27 07:41:45,521 meichu [DEBUG] Done Recv: 3881
+2019-10-27 07:41:45,558 meichu [DEBUG] msg_size: 940885
+2019-10-27 07:41:45,815 meichu [DEBUG] Received response! size = 940885
+2019-10-27 07:41:45,819 meichu [DEBUG] Done Recv: 976
+2019-10-27 07:41:45,836 meichu [DEBUG] msg_size: 940235
+2019-10-27 07:41:46,130 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:46,237 meichu [DEBUG] msg_size: 973005
+2019-10-27 07:41:47,019 meichu [DEBUG] Received response! size = 940235
+2019-10-27 07:41:47,065 meichu [DEBUG] Done Recv: 2817
+2019-10-27 07:41:47,079 meichu [DEBUG] Received response! size = 973005
+2019-10-27 07:41:47,243 meichu [DEBUG] msg_size: 939285
+2019-10-27 07:41:47,248 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:47,897 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:47,990 meichu [DEBUG] msg_size: 972015
+2019-10-27 07:41:48,401 meichu [DEBUG] Received response! size = 972015
+2019-10-27 07:41:48,418 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:48,420 meichu [DEBUG] Received response! size = 939285
+2019-10-27 07:41:48,449 meichu [DEBUG] Done Recv: 1512
+2019-10-27 07:41:48,480 meichu [DEBUG] msg_size: 938950
+2019-10-27 07:41:49,014 meichu [DEBUG] Received response! size = 938950
+2019-10-27 07:41:49,017 meichu [DEBUG] Done Recv: 542
+2019-10-27 07:41:49,052 meichu [DEBUG] msg_size: 938970
+2019-10-27 07:41:49,484 meichu [DEBUG] Received response! size = 938970
+2019-10-27 07:41:49,489 meichu [DEBUG] Done Recv: 3648
+2019-10-27 07:41:49,489 meichu [DEBUG] msg_size: 940150
+2019-10-27 07:41:49,909 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:49,954 meichu [DEBUG] msg_size: 973825
+2019-10-27 07:41:50,362 meichu [DEBUG] Received response! size = 940150
+2019-10-27 07:41:50,377 meichu [DEBUG] Done Recv: 1478
+2019-10-27 07:41:50,404 meichu [DEBUG] msg_size: 941015
+2019-10-27 07:41:50,445 meichu [DEBUG] Received response! size = 973825
+2019-10-27 07:41:50,484 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:50,671 meichu [DEBUG] Received response! size = 941015
+2019-10-27 07:41:50,722 meichu [DEBUG] Done Recv: 2539
+2019-10-27 07:41:50,728 meichu [DEBUG] msg_size: 940345
+2019-10-27 07:41:50,959 meichu [DEBUG] Received response! size = 940345
+2019-10-27 07:41:50,964 meichu [DEBUG] Done Recv: 174
+2019-10-27 07:41:51,047 meichu [DEBUG] msg_size: 940730
+2019-10-27 07:41:51,333 meichu [DEBUG] Received response! size = 940730
+2019-10-27 07:41:51,338 meichu [DEBUG] Done Recv: 1520
+2019-10-27 07:41:51,385 meichu [DEBUG] msg_size: 940740
+2019-10-27 07:41:52,115 meichu [DEBUG] Received response! size = 940740
+2019-10-27 07:41:52,180 meichu [DEBUG] Done Recv: 2856
+2019-10-27 07:41:52,247 meichu [DEBUG] msg_size: 940465
+2019-10-27 07:41:52,514 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:52,523 meichu [DEBUG] msg_size: 972020
+2019-10-27 07:41:52,943 meichu [DEBUG] Received response! size = 972020
+2019-10-27 07:41:53,034 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:53,079 meichu [DEBUG] Received response! size = 940465
+2019-10-27 07:41:53,165 meichu [DEBUG] Done Recv: 371
+2019-10-27 07:41:53,194 meichu [DEBUG] msg_size: 940630
+2019-10-27 07:41:54,097 meichu [DEBUG] Received response! size = 940630
+2019-10-27 07:41:54,101 meichu [DEBUG] Done Recv: 1817
+2019-10-27 07:41:54,114 meichu [DEBUG] msg_size: 940720
+2019-10-27 07:41:54,848 meichu [DEBUG] Received response! size = 940720
+2019-10-27 07:41:54,853 meichu [DEBUG] Done Recv: 3173
+2019-10-27 07:41:54,896 meichu [DEBUG] msg_size: 941510
+2019-10-27 07:41:55,233 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:55,233 meichu [DEBUG] msg_size: 973790
+2019-10-27 07:41:55,518 meichu [DEBUG] Received response! size = 973790
+2019-10-27 07:41:55,537 meichu [DEBUG] Received response! size = 941510
+2019-10-27 07:41:55,598 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:55,635 meichu [DEBUG] Done Recv: 3739
+2019-10-27 07:41:55,747 meichu [DEBUG] msg_size: 941085
+2019-10-27 07:41:56,427 meichu [DEBUG] Received response! size = 941085
+2019-10-27 07:41:56,454 meichu [DEBUG] Done Recv: 634
+2019-10-27 07:41:56,546 meichu [DEBUG] msg_size: 941435
+2019-10-27 07:41:57,023 meichu [DEBUG] Received response! size = 941435
+2019-10-27 07:41:57,066 meichu [DEBUG] Done Recv: 1275
+2019-10-27 07:41:57,089 meichu [DEBUG] msg_size: 940060
+2019-10-27 07:41:57,303 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:57,341 meichu [DEBUG] msg_size: 971735
+2019-10-27 07:41:57,983 meichu [DEBUG] Received response! size = 940060
+2019-10-27 07:41:58,000 meichu [DEBUG] Done Recv: 3291
+2019-10-27 07:41:58,002 meichu [DEBUG] msg_size: 941730
+2019-10-27 07:41:58,362 meichu [DEBUG] Received response! size = 971735
+2019-10-27 07:41:58,498 meichu [DEBUG] Recv: 0
+2019-10-27 07:41:58,774 meichu [DEBUG] Received response! size = 941730
+2019-10-27 07:41:58,826 meichu [DEBUG] Done Recv: 3637
+2019-10-27 07:41:58,827 meichu [DEBUG] msg_size: 941265
+2019-10-27 07:41:59,397 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:41:59,421 meichu [DEBUG] msg_size: 973155
+2019-10-27 07:41:59,657 meichu [DEBUG] Received response! size = 941265
+2019-10-27 07:41:59,806 meichu [DEBUG] Done Recv: 352
+2019-10-27 07:41:59,853 meichu [DEBUG] msg_size: 941065
+2019-10-27 07:42:00,158 meichu [DEBUG] Received response! size = 973155
+2019-10-27 07:42:00,229 meichu [DEBUG] Recv: 0
+2019-10-27 07:42:01,256 meichu [DEBUG] Received response! size = 941065
+2019-10-27 07:42:01,284 meichu [DEBUG] Done Recv: 1363
+2019-10-27 07:42:01,338 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:42:01,480 meichu [DEBUG] msg_size: 941290
+2019-10-27 07:42:01,606 meichu [DEBUG] msg_size: 973455
+2019-10-27 07:42:02,130 meichu [DEBUG] Received response! size = 941290
+2019-10-27 07:42:02,190 meichu [DEBUG] Received response! size = 973455
+2019-10-27 07:42:02,222 meichu [DEBUG] Done Recv: 2149
+2019-10-27 07:42:02,259 meichu [DEBUG] Recv: 0
+2019-10-27 07:42:02,277 meichu [DEBUG] msg_size: 939565
+2019-10-27 07:42:02,904 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:42:02,905 meichu [DEBUG] msg_size: 974315
+2019-10-27 07:42:03,095 meichu [DEBUG] Received response! size = 939565
+2019-10-27 07:42:03,197 meichu [DEBUG] Received response! size = 974315
+2019-10-27 07:42:03,354 meichu [DEBUG] Done Recv: 564
+2019-10-27 07:42:03,412 meichu [DEBUG] Recv: 0
+2019-10-27 07:42:03,429 meichu [DEBUG] msg_size: 939695
+2019-10-27 07:42:03,628 meichu [DEBUG] Received response! size = 939695
+2019-10-27 07:42:03,716 meichu [DEBUG] Done Recv: 2945
+2019-10-27 07:42:03,746 meichu [DEBUG] msg_size: 939185
+2019-10-27 07:42:04,479 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:42:04,550 meichu [DEBUG] Received response! size = 939185
+2019-10-27 07:42:04,629 meichu [DEBUG] msg_size: 973705
+2019-10-27 07:42:04,681 meichu [DEBUG] Done Recv: 1740
+2019-10-27 07:42:04,795 meichu [DEBUG] msg_size: 941550
+2019-10-27 07:42:05,514 meichu [DEBUG] Received response! size = 973705
+2019-10-27 07:42:05,567 meichu [DEBUG] Received response! size = 941550
+2019-10-27 07:42:05,583 meichu [DEBUG] Recv: 0
+2019-10-27 07:42:05,587 meichu [DEBUG] Done Recv: 2266
+2019-10-27 07:42:05,589 meichu [DEBUG] msg_size: 941250
+2019-10-27 07:42:05,751 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:42:05,805 meichu [DEBUG] msg_size: 976900
+2019-10-27 07:42:06,702 meichu [DEBUG] Received response! size = 941250
+2019-10-27 07:42:06,738 meichu [DEBUG] Received response! size = 976900
+2019-10-27 07:42:06,860 meichu [DEBUG] Done Recv: 3092
+2019-10-27 07:42:06,866 meichu [DEBUG] Recv: 0
+2019-10-27 07:42:06,941 meichu [DEBUG] msg_size: 941870
+2019-10-27 07:42:07,095 meichu [DEBUG] Done Recv: 4096
+2019-10-27 07:42:07,157 meichu [DEBUG] msg_size: 947885
+2019-10-27 07:42:07,492 meichu [DEBUG] Received response! size = 941870
+2019-10-27 07:42:07,499 meichu [DEBUG] Done Recv: 3298
+2019-10-27 07:42:07,519 meichu [DEBUG] Received response! size = 947885
+2019-10-27 07:42:07,527 meichu [DEBUG] msg_size: 942685
+2019-10-27 07:42:07,570 meichu [DEBUG] Recv: 0

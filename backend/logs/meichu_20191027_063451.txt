@@ -1,0 +1,352 @@
+2019-10-27 06:34:51,315 meichu [DEBUG] payload_size: 4
+2019-10-27 06:34:51,316 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:34:51,316 meichu [DEBUG] Input data: 1
+2019-10-27 06:34:51,317 meichu [DEBUG] Current send 1: 56
+2019-10-27 06:34:51,317 meichu [DEBUG] Recv: 0
+2019-10-27 06:34:51,483 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:34:51,484 meichu [DEBUG] msg_size: 30
+2019-10-27 06:34:51,484 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:35:15,012 meichu [DEBUG] payload_size: 4
+2019-10-27 06:35:15,012 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:35:15,014 meichu [DEBUG] Input data: 1
+2019-10-27 06:35:15,014 meichu [DEBUG] Current send 1: 56
+2019-10-27 06:35:15,015 meichu [DEBUG] Recv: 0
+2019-10-27 06:35:15,188 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:35:15,189 meichu [DEBUG] msg_size: 30
+2019-10-27 06:35:15,190 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:35:19,888 meichu [DEBUG] payload_size: 4
+2019-10-27 06:35:19,891 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:35:19,891 meichu [DEBUG] Input data: 1
+2019-10-27 06:35:19,892 meichu [DEBUG] Current send 1: 57
+2019-10-27 06:35:19,892 meichu [DEBUG] Recv: 0
+2019-10-27 06:35:20,104 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:35:20,104 meichu [DEBUG] msg_size: 30
+2019-10-27 06:35:20,105 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:35:25,530 meichu [DEBUG] payload_size: 4
+2019-10-27 06:35:25,530 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:35:25,560 meichu [DEBUG] Input data: 1
+2019-10-27 06:35:25,560 meichu [DEBUG] Current send 1: 56
+2019-10-27 06:35:25,561 meichu [DEBUG] Recv: 0
+2019-10-27 06:35:25,647 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:35:25,647 meichu [DEBUG] msg_size: 30
+2019-10-27 06:35:25,647 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:35:28,939 meichu [DEBUG] payload_size: 4
+2019-10-27 06:35:28,940 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:35:28,941 meichu [DEBUG] Input data: 1
+2019-10-27 06:35:28,943 meichu [DEBUG] Current send 1: 57
+2019-10-27 06:35:28,943 meichu [DEBUG] Recv: 0
+2019-10-27 06:35:28,978 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:35:28,979 meichu [DEBUG] msg_size: 30
+2019-10-27 06:35:28,979 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:35:34,123 meichu [DEBUG] payload_size: 4
+2019-10-27 06:35:34,124 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:35:34,153 meichu [DEBUG] Input data: 1
+2019-10-27 06:35:34,154 meichu [DEBUG] Current send 1: 56
+2019-10-27 06:35:34,156 meichu [DEBUG] Recv: 0
+2019-10-27 06:35:34,246 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:35:34,247 meichu [DEBUG] msg_size: 30
+2019-10-27 06:35:34,249 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:36:12,678 meichu [DEBUG] payload_size: 4
+2019-10-27 06:36:12,680 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:36:12,681 meichu [DEBUG] Input data: 1
+2019-10-27 06:36:12,682 meichu [DEBUG] Current send 1: 56
+2019-10-27 06:36:12,683 meichu [DEBUG] Recv: 0
+2019-10-27 06:36:12,901 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:36:12,902 meichu [DEBUG] msg_size: 30
+2019-10-27 06:36:12,902 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:36:17,784 meichu [DEBUG] payload_size: 4
+2019-10-27 06:36:17,785 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:36:17,788 meichu [DEBUG] Input data: 1
+2019-10-27 06:36:17,788 meichu [DEBUG] Current send 1: 57
+2019-10-27 06:36:17,789 meichu [DEBUG] Recv: 0
+2019-10-27 06:36:17,907 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:36:17,908 meichu [DEBUG] msg_size: 30
+2019-10-27 06:36:17,909 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:38:16,373 meichu [DEBUG] payload_size: 4
+2019-10-27 06:38:16,373 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:38:16,401 meichu [DEBUG] Input data: 1
+2019-10-27 06:38:16,402 meichu [DEBUG] Current send 1: 56
+2019-10-27 06:38:16,402 meichu [DEBUG] Recv: 0
+2019-10-27 06:38:16,546 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:38:16,547 meichu [DEBUG] msg_size: 30
+2019-10-27 06:38:16,551 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:38:20,211 meichu [DEBUG] payload_size: 4
+2019-10-27 06:38:20,212 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:38:20,213 meichu [DEBUG] Input data: 1
+2019-10-27 06:38:20,213 meichu [DEBUG] Current send 1: 57
+2019-10-27 06:38:20,214 meichu [DEBUG] Recv: 0
+2019-10-27 06:38:20,394 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:38:20,395 meichu [DEBUG] msg_size: 30
+2019-10-27 06:38:20,401 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:38:56,715 meichu [DEBUG] payload_size: 4
+2019-10-27 06:38:56,716 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:38:56,725 meichu [DEBUG] Input data: 1
+2019-10-27 06:38:56,726 meichu [DEBUG] Current send 1: 56
+2019-10-27 06:38:56,752 meichu [DEBUG] Recv: 0
+2019-10-27 06:38:56,917 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:38:56,918 meichu [DEBUG] msg_size: 30
+2019-10-27 06:38:56,951 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:39:09,916 meichu [DEBUG] payload_size: 4
+2019-10-27 06:39:09,917 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:39:09,928 meichu [DEBUG] Input data: 1
+2019-10-27 06:39:09,952 meichu [DEBUG] Current send 1: 57
+2019-10-27 06:39:09,965 meichu [DEBUG] Recv: 0
+2019-10-27 06:39:10,130 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:39:10,131 meichu [DEBUG] msg_size: 30
+2019-10-27 06:39:10,152 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:39:15,643 meichu [DEBUG] payload_size: 4
+2019-10-27 06:39:15,644 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:39:15,652 meichu [DEBUG] Input data: 1
+2019-10-27 06:39:15,653 meichu [DEBUG] Current send 1: 56
+2019-10-27 06:39:15,654 meichu [DEBUG] Recv: 0
+2019-10-27 06:39:15,847 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:39:15,848 meichu [DEBUG] msg_size: 30
+2019-10-27 06:39:15,852 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:39:25,425 meichu [DEBUG] payload_size: 4
+2019-10-27 06:39:25,426 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:39:25,452 meichu [DEBUG] Input data: 1
+2019-10-27 06:39:25,454 meichu [DEBUG] Current send 1: 57
+2019-10-27 06:39:25,454 meichu [DEBUG] Recv: 0
+2019-10-27 06:39:25,572 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:39:25,573 meichu [DEBUG] msg_size: 30
+2019-10-27 06:39:25,603 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:43:52,965 meichu [DEBUG] payload_size: 4
+2019-10-27 06:43:52,971 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:43:52,975 meichu [DEBUG] Input data: 1
+2019-10-27 06:43:52,976 meichu [DEBUG] Current send 1: 56
+2019-10-27 06:43:52,978 meichu [DEBUG] Recv: 0
+2019-10-27 06:43:53,271 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:43:53,273 meichu [DEBUG] msg_size: 30
+2019-10-27 06:43:53,274 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:44:16,601 meichu [DEBUG] payload_size: 4
+2019-10-27 06:44:16,603 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:44:16,604 meichu [DEBUG] Input data: 1
+2019-10-27 06:44:16,605 meichu [DEBUG] Current send 1: 57
+2019-10-27 06:44:16,606 meichu [DEBUG] Recv: 0
+2019-10-27 06:44:16,723 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:44:16,724 meichu [DEBUG] msg_size: 30
+2019-10-27 06:44:16,726 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:44:21,696 meichu [DEBUG] payload_size: 4
+2019-10-27 06:44:21,697 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:44:21,796 meichu [DEBUG] Input data: 1
+2019-10-27 06:44:21,797 meichu [DEBUG] Current send 1: 56
+2019-10-27 06:44:21,799 meichu [DEBUG] Recv: 0
+2019-10-27 06:44:21,904 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:44:21,906 meichu [DEBUG] msg_size: 30
+2019-10-27 06:44:21,908 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:45:30,098 meichu [DEBUG] payload_size: 4
+2019-10-27 06:45:30,099 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:45:30,126 meichu [DEBUG] Input data: 1
+2019-10-27 06:45:30,127 meichu [DEBUG] Current send 1: 57
+2019-10-27 06:45:30,129 meichu [DEBUG] Recv: 0
+2019-10-27 06:45:30,270 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:45:30,272 meichu [DEBUG] msg_size: 30
+2019-10-27 06:45:30,273 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:45:34,693 meichu [DEBUG] payload_size: 4
+2019-10-27 06:45:34,694 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:45:34,710 meichu [DEBUG] Input data: 1
+2019-10-27 06:45:34,711 meichu [DEBUG] Current send 1: 56
+2019-10-27 06:45:34,712 meichu [DEBUG] Recv: 0
+2019-10-27 06:45:34,723 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:45:34,725 meichu [DEBUG] msg_size: 30
+2019-10-27 06:45:34,726 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:45:38,731 meichu [DEBUG] payload_size: 4
+2019-10-27 06:45:38,732 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:45:38,734 meichu [DEBUG] Input data: 1
+2019-10-27 06:45:38,735 meichu [DEBUG] Current send 1: 57
+2019-10-27 06:45:38,736 meichu [DEBUG] Recv: 0
+2019-10-27 06:45:38,897 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:45:38,899 meichu [DEBUG] msg_size: 30
+2019-10-27 06:45:38,901 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:45:39,852 meichu [DEBUG] payload_size: 4
+2019-10-27 06:45:39,853 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:45:39,856 meichu [DEBUG] Input data: 1
+2019-10-27 06:45:39,857 meichu [DEBUG] Current send 1: 57
+2019-10-27 06:45:39,859 meichu [DEBUG] Recv: 0
+2019-10-27 06:45:40,066 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:45:40,067 meichu [DEBUG] msg_size: 30
+2019-10-27 06:45:40,068 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:45:42,232 meichu [DEBUG] payload_size: 4
+2019-10-27 06:45:42,234 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:45:42,236 meichu [DEBUG] Input data: 1
+2019-10-27 06:45:42,237 meichu [DEBUG] Current send 1: 56
+2019-10-27 06:45:42,238 meichu [DEBUG] Recv: 0
+2019-10-27 06:45:42,256 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:45:42,258 meichu [DEBUG] msg_size: 30
+2019-10-27 06:45:42,259 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:45:45,915 meichu [DEBUG] payload_size: 4
+2019-10-27 06:45:45,916 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:45:45,944 meichu [DEBUG] Input data: 1
+2019-10-27 06:45:45,946 meichu [DEBUG] Current send 1: 57
+2019-10-27 06:45:45,947 meichu [DEBUG] Recv: 0
+2019-10-27 06:45:46,043 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:45:46,044 meichu [DEBUG] msg_size: 30
+2019-10-27 06:45:46,046 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:45:48,806 meichu [DEBUG] payload_size: 4
+2019-10-27 06:45:48,808 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:45:48,812 meichu [DEBUG] Input data: 1
+2019-10-27 06:45:48,818 meichu [DEBUG] Current send 1: 56
+2019-10-27 06:45:48,819 meichu [DEBUG] Recv: 0
+2019-10-27 06:45:49,119 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:45:49,121 meichu [DEBUG] msg_size: 30
+2019-10-27 06:45:49,123 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:45:50,257 meichu [DEBUG] payload_size: 4
+2019-10-27 06:45:50,259 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:45:50,267 meichu [DEBUG] Input data: 1
+2019-10-27 06:45:50,269 meichu [DEBUG] Current send 1: 57
+2019-10-27 06:45:50,270 meichu [DEBUG] Recv: 0
+2019-10-27 06:45:50,363 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:45:50,365 meichu [DEBUG] msg_size: 30
+2019-10-27 06:45:50,366 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:45:52,118 meichu [DEBUG] payload_size: 4
+2019-10-27 06:45:52,120 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:45:52,122 meichu [DEBUG] Input data: 1
+2019-10-27 06:45:52,124 meichu [DEBUG] Current send 1: 56
+2019-10-27 06:45:52,126 meichu [DEBUG] Recv: 0
+2019-10-27 06:45:52,241 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:45:52,243 meichu [DEBUG] msg_size: 30
+2019-10-27 06:45:52,244 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:46:04,780 meichu [DEBUG] payload_size: 4
+2019-10-27 06:46:04,782 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:46:04,784 meichu [DEBUG] Input data: 1
+2019-10-27 06:46:04,786 meichu [DEBUG] Current send 1: 57
+2019-10-27 06:46:04,788 meichu [DEBUG] Recv: 0
+2019-10-27 06:46:04,877 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:46:04,879 meichu [DEBUG] msg_size: 30
+2019-10-27 06:46:04,880 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:46:07,656 meichu [DEBUG] payload_size: 4
+2019-10-27 06:46:07,658 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:46:07,660 meichu [DEBUG] Input data: 1
+2019-10-27 06:46:07,661 meichu [DEBUG] Current send 1: 56
+2019-10-27 06:46:07,663 meichu [DEBUG] Recv: 0
+2019-10-27 06:46:07,779 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:46:07,781 meichu [DEBUG] msg_size: 30
+2019-10-27 06:46:07,783 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:46:38,082 meichu [DEBUG] payload_size: 4
+2019-10-27 06:46:38,084 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:46:38,087 meichu [DEBUG] Input data: 1
+2019-10-27 06:46:38,092 meichu [DEBUG] Current send 1: 57
+2019-10-27 06:46:38,095 meichu [DEBUG] Recv: 0
+2019-10-27 06:46:38,159 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:46:38,161 meichu [DEBUG] msg_size: 30
+2019-10-27 06:46:38,163 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:46:43,058 meichu [DEBUG] payload_size: 4
+2019-10-27 06:46:43,060 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:46:43,062 meichu [DEBUG] Input data: 1
+2019-10-27 06:46:43,076 meichu [DEBUG] Current send 1: 56
+2019-10-27 06:46:43,077 meichu [DEBUG] Recv: 0
+2019-10-27 06:46:43,258 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:46:43,260 meichu [DEBUG] msg_size: 30
+2019-10-27 06:46:43,262 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:46:50,941 meichu [DEBUG] payload_size: 4
+2019-10-27 06:46:50,944 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:46:51,093 meichu [DEBUG] Input data: 1
+2019-10-27 06:46:51,095 meichu [DEBUG] Current send 1: 57
+2019-10-27 06:46:51,097 meichu [DEBUG] Recv: 0
+2019-10-27 06:46:51,361 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:46:51,363 meichu [DEBUG] msg_size: 30
+2019-10-27 06:46:51,364 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:46:52,163 meichu [DEBUG] payload_size: 4
+2019-10-27 06:46:52,165 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:46:53,123 meichu [DEBUG] Input data: 1
+2019-10-27 06:46:53,126 meichu [DEBUG] Current send 1: 57
+2019-10-27 06:46:53,127 meichu [DEBUG] Recv: 0
+2019-10-27 06:46:53,215 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:46:53,217 meichu [DEBUG] msg_size: 30
+2019-10-27 06:46:53,219 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:47:06,807 meichu [DEBUG] payload_size: 4
+2019-10-27 06:47:06,810 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:47:06,838 meichu [DEBUG] Input data: 1
+2019-10-27 06:47:06,842 meichu [DEBUG] Current send 1: 56
+2019-10-27 06:47:06,846 meichu [DEBUG] Recv: 0
+2019-10-27 06:47:06,951 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:47:06,954 meichu [DEBUG] msg_size: 30
+2019-10-27 06:47:06,958 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:48:24,001 meichu [DEBUG] payload_size: 4
+2019-10-27 06:48:24,003 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:48:24,006 meichu [DEBUG] Input data: 1
+2019-10-27 06:48:24,010 meichu [DEBUG] Current send 1: 57
+2019-10-27 06:48:24,012 meichu [DEBUG] Recv: 0
+2019-10-27 06:48:24,201 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:48:24,203 meichu [DEBUG] msg_size: 30
+2019-10-27 06:48:24,205 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:48:39,779 meichu [DEBUG] payload_size: 4
+2019-10-27 06:48:39,782 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:48:39,784 meichu [DEBUG] Input data: 1
+2019-10-27 06:48:39,786 meichu [DEBUG] Current send 1: 56
+2019-10-27 06:48:39,788 meichu [DEBUG] Recv: 0
+2019-10-27 06:48:39,962 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:48:39,964 meichu [DEBUG] msg_size: 30
+2019-10-27 06:48:39,966 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:49:03,733 meichu [DEBUG] payload_size: 4
+2019-10-27 06:49:03,735 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:49:03,738 meichu [DEBUG] Input data: 1
+2019-10-27 06:49:03,741 meichu [DEBUG] Current send 1: 57
+2019-10-27 06:49:03,743 meichu [DEBUG] Recv: 0
+2019-10-27 06:49:03,997 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:49:04,000 meichu [DEBUG] msg_size: 30
+2019-10-27 06:49:04,003 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:49:11,579 meichu [DEBUG] payload_size: 4
+2019-10-27 06:49:11,581 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:49:11,584 meichu [DEBUG] Input data: 1
+2019-10-27 06:49:11,586 meichu [DEBUG] Current send 1: 56
+2019-10-27 06:49:11,588 meichu [DEBUG] Recv: 0
+2019-10-27 06:49:11,652 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:49:11,654 meichu [DEBUG] msg_size: 30
+2019-10-27 06:49:11,657 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:50:01,278 meichu [DEBUG] payload_size: 4
+2019-10-27 06:50:01,281 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:50:01,289 meichu [DEBUG] Input data: 1
+2019-10-27 06:50:01,292 meichu [DEBUG] Current send 1: 57
+2019-10-27 06:50:01,295 meichu [DEBUG] Recv: 0
+2019-10-27 06:50:01,407 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:50:01,409 meichu [DEBUG] msg_size: 30
+2019-10-27 06:50:01,411 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:50:28,423 meichu [DEBUG] payload_size: 4
+2019-10-27 06:50:28,427 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:50:28,429 meichu [DEBUG] Input data: 1
+2019-10-27 06:50:28,431 meichu [DEBUG] Current send 1: 56
+2019-10-27 06:50:28,438 meichu [DEBUG] Recv: 0
+2019-10-27 06:50:28,663 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:50:28,666 meichu [DEBUG] msg_size: 30
+2019-10-27 06:50:28,668 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:51:07,998 meichu [DEBUG] payload_size: 4
+2019-10-27 06:51:08,001 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:51:08,012 meichu [DEBUG] Input data: 1
+2019-10-27 06:51:08,014 meichu [DEBUG] Current send 1: 57
+2019-10-27 06:51:08,017 meichu [DEBUG] Recv: 0
+2019-10-27 06:51:08,123 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:51:08,127 meichu [DEBUG] msg_size: 30
+2019-10-27 06:51:08,129 meichu [DEBUG] Received response! size = 30
+2019-10-27 06:51:17,495 meichu [DEBUG] payload_size: 4
+2019-10-27 06:51:17,498 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 06:51:17,501 meichu [DEBUG] Input data: 1
+2019-10-27 06:51:17,504 meichu [DEBUG] Current send 1: 56
+2019-10-27 06:51:17,508 meichu [DEBUG] Recv: 0
+2019-10-27 06:51:17,627 meichu [DEBUG] Done Recv: 34
+2019-10-27 06:51:17,631 meichu [DEBUG] msg_size: 30
+2019-10-27 06:51:17,633 meichu [DEBUG] Received response! size = 30
+2019-10-27 07:04:50,692 meichu [DEBUG] payload_size: 4
+2019-10-27 07:04:50,702 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 07:04:50,705 meichu [DEBUG] Input data: 1
+2019-10-27 07:04:50,708 meichu [DEBUG] Current send 1: 57
+2019-10-27 07:04:50,711 meichu [DEBUG] Recv: 0
+2019-10-27 07:04:50,969 meichu [DEBUG] Done Recv: 34
+2019-10-27 07:04:50,971 meichu [DEBUG] msg_size: 30
+2019-10-27 07:04:50,974 meichu [DEBUG] Received response! size = 30
+2019-10-27 07:05:01,290 meichu [DEBUG] payload_size: 4
+2019-10-27 07:05:01,293 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 07:05:01,296 meichu [DEBUG] Input data: 1
+2019-10-27 07:05:01,299 meichu [DEBUG] Current send 1: 56
+2019-10-27 07:05:01,303 meichu [DEBUG] Recv: 0
+2019-10-27 07:05:01,367 meichu [DEBUG] Done Recv: 34
+2019-10-27 07:05:01,371 meichu [DEBUG] msg_size: 30
+2019-10-27 07:05:01,373 meichu [DEBUG] Received response! size = 30
+2019-10-27 07:05:02,110 meichu [DEBUG] payload_size: 4
+2019-10-27 07:05:02,116 meichu [DEBUG] connect to 172.20.10.7:8300
+2019-10-27 07:05:02,120 meichu [DEBUG] Input data: 1
+2019-10-27 07:05:02,122 meichu [DEBUG] Current send 1: 56
+2019-10-27 07:05:02,125 meichu [DEBUG] Recv: 0
+2019-10-27 07:05:02,195 meichu [DEBUG] Done Recv: 34
+2019-10-27 07:05:02,197 meichu [DEBUG] msg_size: 30
+2019-10-27 07:05:02,200 meichu [DEBUG] Received response! size = 30

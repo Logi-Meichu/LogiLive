@@ -1,0 +1,4 @@
+2019-10-27 07:25:24,745 meichu [DEBUG] payload_size: 4
+2019-10-27 07:25:24,745 meichu [DEBUG] connect to 172.20.10.7:9302
+2019-10-27 07:25:25,628 meichu [DEBUG] payload_size: 4
+2019-10-27 07:25:25,628 meichu [DEBUG] connect to 172.20.10.7:9302
