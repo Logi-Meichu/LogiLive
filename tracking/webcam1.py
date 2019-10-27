@@ -14,7 +14,7 @@ stream.set(cv2.CAP_PROP_FPS, 20)
 options = {'flag' : 0, 'copy' : False, 'track' : False}
 
 #change following IP address '192.168.x.xxx' with yours
-server = NetGear(address = '172.20.10.7', port = '6767', protocol = 'udp',  pattern = 0, receive_mode = False, logging = True, **options) #Define netgear server at your system IP address.
+server = NetGear(address = '172.20.10.7', port = '6767', protocol = 'tcp',  pattern = 0, receive_mode = False, logging = True, **options) #Define netgear server at your system IP address.
 
 # infinite loop until [Ctrl+C] is pressed
 while True:
